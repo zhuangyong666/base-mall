@@ -33,5 +33,5 @@ export default {
 
   PRIVATE_KEY: "123456789", //加密key
 
-  PROCESS: "dev", //pro                  //版本类型  dev:开发版     pro:提交版
+  PROCESS: "pro", //pro                  //版本类型  dev:开发版     pro:提交版
 };

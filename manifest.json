@@ -1,6 +1,6 @@
 {
     "name" : "base-mall",
-    "appid" : "__UNI__BD2AEB4",
+    "appid" : "__UNI__EBB3A69",
     "description" : "使用uniapp框架搭建基础性商城，promise封装请求，VueX模块管理数据，BUS传值，mixin混入，各种实用性组件（图片懒加载，加载更多，单图等比例，自定义加载等）",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -55,7 +55,7 @@
     /* 快应用特有相关 */
     "mp-weixin" : {
         /* 微信小程序特有相关 */
-        "appid" : "wxeacca8b837d0c7bb",
+        "appid" : "wx71b4f47635680ecf",
         "setting" : {
             "urlCheck" : false,
             "es6" : true,
